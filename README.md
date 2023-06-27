@@ -44,6 +44,7 @@ imagen 7. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.
 
 imagen 8. version 2.0 de la aplicacion Biorreactor-Energy-Predictor.
 
-![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/d050efc6-6fab-4e4e-9e88-ee5498f627e6)
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/2a986545-2979-4fe3-bdfe-8bddb2b6e87d)
+
 
 

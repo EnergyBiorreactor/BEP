@@ -56,4 +56,5 @@ Se logro obtener una herramienta prometedora para el cálculo de las necesidades
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/f63b3f3f-fb80-4b8b-b0ba-be73a0b514a1)
 
 **Referencias:**
-Hernández, A. A. F., Montiel, M. F., Reyes, J. R., & Zaragoza, C. M. A. (2013). Diseño y modelado de un bioreactor tipo batch y continuo para aplicaciones de control automático. Recuperado de: https://amca.mx/memorias/amca2013/papers/0164.pdf
+
+Tablas y ecuaciones extraidas de: Hernández, A. A. F., Montiel, M. F., Reyes, J. R., & Zaragoza, C. M. A. (2013). Diseño y modelado de un bioreactor tipo batch y continuo para aplicaciones de control automático. Recuperado de: https://amca.mx/memorias/amca2013/papers/0164.pdf

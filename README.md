@@ -13,9 +13,11 @@ Palabras claves: Procesos biotecnológicos, modelo matemático, biorreactores, n
 Ecuaciones de transferencias de calor describen cómo se transmite el calor dentro del reactor:
 
 imagen 2. ecuacion 1.
+
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/2b0cd8ff-b866-4304-9f9c-3aeeffe1daaf)
 
 imagen 3. ecuacion 2.
+
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/d8869449-7c74-4418-ac04-797ba69d3a8b)
 
 imagen 2. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.

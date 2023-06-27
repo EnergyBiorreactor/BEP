@@ -20,7 +20,17 @@ imagen 3. ecuacion 2.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/d8869449-7c74-4418-ac04-797ba69d3a8b)
 
-imagen 2. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.
+imagen 4. ecuacion 3.
+
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/13666d57-43cc-40ce-b07f-30621673133d)
+
+imagen 5. ecuacion 4
+
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/23f776b9-1e79-4184-a084-fc01e44111d2)
+
+
+imagen 6. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.
+
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/4f554a36-64c5-4eb6-8bda-ee3351ab8aaa)
 
 

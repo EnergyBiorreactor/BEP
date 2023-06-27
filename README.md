@@ -38,7 +38,7 @@ imagen 6. flujograma de la metodologia.
 
 Resultados:
 
-se logor obtener una herramienta prometedora para el cálculo de las necesidades energéticas en biorreactores tipo Batch en la modelación de procesos biotecnológicos. Con futuras actualizaciones y su integración con sensores, esta herramienta tiene el potencial de impactar positivamente en la industria biotecnológica al optimizar el diseño y monitoreo de bioprocesos, mejorando así la eficiencia y los resultados obtenidos.
+Se logor obtener una herramienta prometedora para el cálculo de las necesidades energéticas en biorreactores tipo Batch en la modelación de procesos biotecnológicos. Con futuras actualizaciones y su integración con sensores, esta herramienta tiene el potencial de impactar positivamente en la industria biotecnológica al optimizar el diseño y monitoreo de bioprocesos, mejorando así la eficiencia y los resultados obtenidos.
 
 imagen 7. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.
 

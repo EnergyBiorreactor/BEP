@@ -28,7 +28,7 @@ imagen 5. ecuacion 4.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/23f776b9-1e79-4184-a084-fc01e44111d2)
 
-tabla 1. datos experimentales de las variables utilizadas en la aplicacion.
+tabla 1. Datos experimentales de las variables utilizadas en la aplicacion.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/f4849477-fba0-49c8-87b9-f5a7a59cb8e9)
 
@@ -36,9 +36,14 @@ imagen 6. flujograma de la metodologia.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/0b7665f5-108c-4ba5-b001-7c299e6147c5)
 
+Resultados:
 
 imagen 7. version 1.0 de la aplicacion Biorreactor-Energy-Predictor.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/4f554a36-64c5-4eb6-8bda-ee3351ab8aaa)
+
+imagen 8. version 2.0 de la aplicacion Biorreactor-Energy-Predictor.
+
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/d050efc6-6fab-4e4e-9e88-ee5498f627e6)
 
 

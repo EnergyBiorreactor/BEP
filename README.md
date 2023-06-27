@@ -46,5 +46,10 @@ imagen 8. version 2.0 de la aplicacion Biorreactor-Energy-Predictor.
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/2a986545-2979-4fe3-bdfe-8bddb2b6e87d)
 
+imagen 9. resultado despues de ejecutar el programa.
+
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/f63b3f3f-fb80-4b8b-b0ba-be73a0b514a1)
+
+
 
 

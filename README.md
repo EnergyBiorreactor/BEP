@@ -2,6 +2,7 @@ Biorreactor-Energy-Predictor:
 
 Desarrollo de un programa basado en el lenguaje de Python para la predicción de las necesidades energéticas de biorreactores tipo Batch (tanque agitado con chaqueta).
 
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/aae268f3-c7db-443f-901f-3ed0020610c9)
 
 Resumen
 

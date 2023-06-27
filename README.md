@@ -4,7 +4,7 @@ Desarrollo de un programa basado en el lenguaje de Python para la predicción de
 
 **Imagen 1. logo aplicacion.**
 
-![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/aae268f3-c7db-443f-901f-3ed0020610c9)
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/461b7f18-cb21-44df-bff0-f29ab1a0dc2d)
 
 **Resumen**
 
@@ -13,7 +13,7 @@ Para modelación de procesos biotecnológicos es necesario contar con parámetro
 
 **Palabras claves:** Procesos biotecnológicos, modelo matemático, biorreactores, necesidades energéticas, Python.
 
-Ecuaciones de cinetica celular dentro del reactor:
+Ecuaciones de cinetica celular:
 
 **Imagen 2. ecuacion 1.**
 
@@ -55,4 +55,5 @@ Se logro obtener una herramienta prometedora para el cálculo de las necesidades
 
 ![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/f63b3f3f-fb80-4b8b-b0ba-be73a0b514a1)
 
-
+**Referencias:**
+Hernández, A. A. F., Montiel, M. F., Reyes, J. R., & Zaragoza, C. M. A. (2013). Diseño y modelado de un bioreactor tipo batch y continuo para aplicaciones de control automático. Recuperado de: https://amca.mx/memorias/amca2013/papers/0164.pdf

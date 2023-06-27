@@ -10,4 +10,5 @@ Para modelación de procesos biotecnológicos es necesario contar con parámetro
 
 Palabras claves: Procesos biotecnológicos, modelo matemático, biorreactores, necesidades energéticas, Python.
 
+![image](https://github.com/EnergyBiorreactor/BEP/assets/137831522/056d5768-94ad-415e-a033-688bbcd65e31)
 

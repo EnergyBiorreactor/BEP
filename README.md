@@ -13,7 +13,7 @@ Para modelación de procesos biotecnológicos es necesario contar con parámetro
 
 **Palabras claves:** Procesos biotecnológicos, modelo matemático, biorreactores, necesidades energéticas, Python.
 
-Ecuaciones de transferencias de calor describen cómo se transmite el calor dentro del reactor:
+Ecuaciones de cinetica celular dentro del reactor:
 
 **Imagen 2. ecuacion 1.**
 

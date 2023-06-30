@@ -58,3 +58,9 @@ Se logro obtener una herramienta prometedora para el cálculo de las necesidades
 **Referencias:**
 
 Tablas y ecuaciones extraidas de: Hernández, A. A. F., Montiel, M. F., Reyes, J. R., & Zaragoza, C. M. A. (2013). Diseño y modelado de un bioreactor tipo batch y continuo para aplicaciones de control automático. Recuperado de: https://amca.mx/memorias/amca2013/papers/0164.pdf
+
+**Conclusiones:**
+
+**Agradecimientos:**
+
+**Proyecto realizado por:**
